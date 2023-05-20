@@ -1,6 +1,6 @@
 # bloc_demo
 
-A new Flutter project.
+Bloc Counter
 
 ## Counter using bloc
 
